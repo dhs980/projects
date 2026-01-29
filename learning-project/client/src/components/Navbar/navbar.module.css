@@ -1,0 +1,25 @@
+.navbar_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10%;
+}
+.icon {
+  width: 33px;
+  height: auto;
+  color: #eeeeee;
+}
+
+.sideA {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+.sideB {
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.sideB svg:hover {
+  color: #00adb5;
+}
